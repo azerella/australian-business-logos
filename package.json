@@ -1,0 +1,27 @@
+{
+  "name": "australian-business-logos",
+  "version": "0.1.0",
+  "description": "SVG icons for popular Australian brands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamzerella/australian-business-logos.git"
+  },
+  "keywords": [
+    "australian",
+    "business",
+    "brand",
+    "vector",
+    "logo",
+    "icons"
+  ],
+  "author": "Adam Zerella <hi@adamzerella.com> (https://adamzerella.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamzerella/australian-business-logos/issues"
+  },
+  "homepage": "https://github.com/adamzerella/australian-business-logos#readme"
+}
